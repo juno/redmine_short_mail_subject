@@ -1,3 +1,16 @@
-= short_mail_subject
+Redmine Short Mail Subject plugin
+=================================
 
-Description goes here
+Introduction
+------------
+
+This plugin modify subject of notification mail more short.
+
+
+Installation
+------------
+
+TODO.
+
+
+Copyright (C) 2009 Junya Ogura], released under the MIT license. 
